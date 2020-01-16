@@ -1,0 +1,16 @@
+# **/*.js
+server/**/*.js
+internals/**/*.js
+*.config.js
+coverage
+build
+node_modules
+false
+stats.json
+
+.DS_Store
+npm-debug.log
+.idea
+.env
+
+app/app.js

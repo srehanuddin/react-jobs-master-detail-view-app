@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "description": "Comfortable with modern JS stack, experience with React.",
+      "employment_type": "full_time"
+    },
+    {
+      "id": 2,
+      "title": "Senior Frontend Developer",
+      "description": "Comfortable with modern JS stack, should have 3+ years of experience with React.",
+      "employment_type": "full_time"
+    },
+    {
+      "id": 3,
+      "title": "Lead Frontend Developer",
+      "description": "Comfortable with modern JS stack, should have 5+ years of experience with React.",
+      "employment_type": "part_time"
+    },
+    {
+      "id": 4,
+      "title": "Backend Developer",
+      "description": "Comfortable with modern JS stack, experience with Node.",
+      "employment_type": "full_time"
+    }
+]
